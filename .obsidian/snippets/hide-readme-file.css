@@ -1,0 +1,4 @@
+/* Hiding the README.md file */
+div[data-path='README.md'] {
+  display: none;
+}

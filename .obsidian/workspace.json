@@ -1,0 +1,177 @@
+{
+  "main": {
+    "id": "e9654ebac4b6f996",
+    "type": "split",
+    "children": [
+      {
+        "id": "49791a3d993e8041",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3315bb51c13c7840",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/notes/note-test.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "367dfd52d6e34c46",
+    "type": "split",
+    "children": [
+      {
+        "id": "9b30399c071459dc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7f8cdfabddef400c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "973984a0470064a4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f4bf3105002468bc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 253.5
+  },
+  "right": {
+    "id": "59830dd4fefc8ea8",
+    "type": "split",
+    "children": [
+      {
+        "id": "8ba74bebdac37117",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ef45b959931d3683",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "content/notes/note-test.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1500159c1fa16e1d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "23bca828438b1dc1",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "973984a0470064a4",
+  "lastOpenFiles": [
+    "content/posts/post-test.md",
+    "content/notes/note-test.md",
+    "content/page-test.md",
+    "content/notes/20241015-note-test.md",
+    "content/posts/20241015-post-test.md",
+    "content/gallery.md",
+    "content/bookmarks.md",
+    "content/posts/20240701-hello-world.md",
+    "content/posts/20241010-test-post.md",
+    "content/notes/20241010-asdf.md",
+    "content/blog/notes/20241009-testing-one.md",
+    "content/blog/posts/20240828-monkey-business.md",
+    "content/blog/posts/20240915-ai-website-crawlers.md",
+    "content/blog/posts/20240924-prettymap-brisbane.md",
+    "content/blog/posts/20241003-kenilworth-camping.md",
+    "content/blog/posts/20240731-keep-it-simple-stupid.md",
+    "content/blog/posts/20240807-phockup-saved-my-photos.md",
+    "content/blog/posts/20240701-hello-world.md",
+    "content/images/kenilworth-camping-12-white-fungus-macro.jpg",
+    "content/images/monkey-business-5-monkeys-fighting.jpeg",
+    "content/images/monkey-business-1-alpha-monkey.jpeg",
+    "content/images/monkey-business-6-hugging-monkeys.jpeg",
+    "content/images/monkey-business-7-baby-monkey-eating-potato.jpeg",
+    "content/images/kenilworth-camping-5-submerged-pier-in-pond.jpg",
+    "content/images/kenilworth-camping-9-dystopian-bridge-alpine-flora.jpg",
+    "content/images/kenilworth-camping-3-firepit-chopped-wood.jpg",
+    "content/images/monkey-business-8-mother-monkey-with-babies.jpeg",
+    "content/images/kenilworth-camping-8-purple-lily-flower-macro.jpg",
+    "content/images",
+    "src/blog/posts/20240701-hello-world.md",
+    "src/blog/posts/20240731-keep-it-simple-stupid.md",
+    "src/blog/posts/20240807-phockup-saved-my-photos.md",
+    "src/blog/posts/20240828-monkey-business.md",
+    "src/blog/posts/20240915-ai-website-crawlers.md",
+    "src/blog/posts/20241003-camping-for-the-soul.md",
+    "src/blog/posts/20240924-prettymap-brisbane.md",
+    "src/blog/20240701-hello-world.md",
+    "src/blog/media",
+    "src/blog/images",
+    "src/blog",
+    "src/posts/media",
+    "src/posts/images",
+    "src/posts",
+    "docs",
+    "public/browserconfig.xml",
+    "public/site.webmanifest"
+  ]
+}

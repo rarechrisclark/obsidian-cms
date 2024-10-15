@@ -1,0 +1,10 @@
+{
+  "accentColor": "#49eeb7",
+  "theme": "system",
+  "enabledCssSnippets": [
+    "hide-utils-folder",
+    "hide-readme-file",
+    "folder-icons"
+  ],
+  "cssTheme": ""
+}

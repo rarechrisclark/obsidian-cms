@@ -1,0 +1,9 @@
+# ------------- Obsidian ------------- #
+.trash
+
+# note: these will be uploaded to R2 Storage for CDN use
+content/images
+
+# -------------- Shared -------------- #
+.idea
+.DS_Store

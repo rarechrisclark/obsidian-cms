@@ -1,0 +1,6 @@
+/* Hiding the _utils folder */
+div[data-path='_utils'],
+div[data-path='_utils'] + div.nav-folder-children
+{
+  display: none;
+}
